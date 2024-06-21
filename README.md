@@ -1,6 +1,8 @@
 # Identification of Fake Currency Found in India 💵🔍
 
 This project aims to develop machine learning models capable of detecting fake Indian currency notes. The models are built using the ResNet50 architecture, fine-tuned with custom layers for binary classification to distinguish between real and fake notes for denominations of 50, 100, 500, and 2000 rupees.
+
+
 ![1](https://github.com/Shwetagupta2004/Identification-of-Fake-Currency-Found-in-India/assets/141017117/ee297e58-8d27-4195-9484-fce1489399fb)
 
 ## Table of Contents 📑
